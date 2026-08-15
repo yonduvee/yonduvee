@@ -39,32 +39,10 @@ I enjoy learning new technologies and building practical projects that turn idea
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 Bangla Handwritten Upazila-District Recognition
-
-Handwritten Bangla **Upazila, District and Pair Name Recognition** using Ensemble Learning.
-
-**Tech:** Python · Machine Learning · Jupyter Notebook
-
-### 📍 Bangla Upazila Recognizer
-
-A Bangla location recognition application designed to identify **Upazila and District names**.
-
-**Tech:** Python · Gradio · Pillow · NumPy
-
 ### 🌐 My Portfolio
 
 A personal portfolio website showcasing my skills, projects and learning journey.
 https://yonduvee.github.io/my-portfolio/
-
-### 💻 Online Bidding System
-
-A Laravel-based online bidding and auction management system.
-
-**Tech:** PHP · Laravel · MySQL
-
----
 
 ## 🎯 My Goals
 
