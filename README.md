@@ -97,3 +97,8 @@ A Laravel-based online bidding and auction management system.
 ### ⚡ "Learn. Build. Improve. Repeat."
 
 ⭐ Thanks for visiting my profile!
+
+
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/yonduvee/yonduvee/output/github-contribution-grid-snake.svg)
