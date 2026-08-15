@@ -56,8 +56,7 @@ A Bangla location recognition application designed to identify **Upazila and Dis
 ### 🌐 My Portfolio
 
 A personal portfolio website showcasing my skills, projects and learning journey.
-
-**Tech:** HTML · CSS
+https://yonduvee.github.io/my-portfolio/
 
 ### 💻 Online Bidding System
 
