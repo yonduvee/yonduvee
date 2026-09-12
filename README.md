@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alvee
 
-### 🤖 AI & Machine Learning Enthusiast | 💻 Software Developer
+### 🤖 AI & Machine Learning Enthusiast | 💻 Web Development
 
-I'm a CSE graduate interested in **Artificial Intelligence, Machine Learning, and Software Development**.
+I'm a CSE graduate interested in **Artificial Intelligence, Machine Learning, and Web Development**.
 I enjoy learning new technologies and building practical projects that turn ideas into useful applications.
 
 ---
@@ -23,7 +23,7 @@ I enjoy learning new technologies and building practical projects that turn idea
 
 ### Programming
 
-`Python` `C` `PHP` `JavaScript`
+`Python`  `PHP` `JavaScript`
 
 ### AI / Machine Learning
 
@@ -31,11 +31,11 @@ I enjoy learning new technologies and building practical projects that turn idea
 
 ### Web Development
 
-`HTML` `CSS` `Laravel` `MySQL`
+`HTML` `CSS` `Laravel` `MySQL` `JavaScript`  
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Jupyter Notebook`
+`Git` `GitHub` `VS Code` 
 
 ---
 
