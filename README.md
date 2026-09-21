@@ -23,7 +23,7 @@ I enjoy learning new technologies and building practical projects that turn idea
 
 ### Programming
 
-`Python`  `PHP` `JavaScript`
+`Python` 
 
 ### AI / Machine Learning
 
@@ -31,7 +31,7 @@ I enjoy learning new technologies and building practical projects that turn idea
 
 ### Web Development
 
-`HTML` `CSS` `Laravel` `MySQL` `JavaScript`  
+`HTML` `CSS` `Laravel` `MySQL` `JavaScript` `Tailwind-css`
 
 ### Tools
 
